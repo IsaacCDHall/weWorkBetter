@@ -1,24 +1,58 @@
-## Project Title
+## Pillbug Co-work Space
+#### Created by Isaac Hall
 ---
 
-#### Names of Author(s)
-#### Date of Completion
+#### Last Updated - 2/22/2019
 
-### Description
+### Client Request
 
-Write about what the project does, what inspired you, what its goals are, what issues you're trying to fix, or what concepts you're completing this project to learn in this section here.
+* "Online presence mirrors real-life space"
+
+* "Luxurious, cool, and high-end; yet still 100% welcoming and inclusive to everyone"
+
+* "We think we're more funky, more local, less corporate, and a little more fun."
+
+* Appeal to:
+  * Artists
+  * Day Traders
+  * Craftsman
+  * Authors
+  * Counselors
+  * Traditional Businessman
+  * Tech-Heads
+
+
+* Amenities:
+  * Coffee-counter
+  * Diversity in workspace (private and communal)
+  * Fast Internet
+  * Fax/Printer
+  * Thursday Events (e.g., yoga, food, beer, crafts, speakers)
+
+
+* MVP:
+  * Landing page
+  * Contact page
+  * Amenities
+  * Subscription/Membership Costs/How to Join
 
 ### Images
 
 Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
 
-#### Desktop Version
+#### Paper Sketch
 
-![desktop user interface](link-to-screenshot-here)
+Grid Paper Sketch![Grid Paper Sketch](img/sketch.jpg)
 
-#### Mobile Version
+#### Wireframes
 
-![mobile user interface](link-to-screenshot-here)
+First Draft![First](img/Screen1.png)
+
+First Minimal Design![Second](img/Screen2.png)
+
+Color Scheme changing![Third](img/Screen3.png)
+
+Fleshed out! Incorporates Pill design![Final](img/Screen4.png)
 
 ### User Stories
 
@@ -58,6 +92,6 @@ Is there work you plan on continuing doing on this project? Features you'd like 
 
 ### License
 
-Determine the license under which this application can be used.
+MIT.
 
-Copyright (c) 2018 **_{ List of Contributors }_**
+Copyright (c) 2019 **_{ Isaac Hall }_**
