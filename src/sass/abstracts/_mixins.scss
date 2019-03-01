@@ -1,0 +1,36 @@
+// @mixin flex-center {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
+//
+// @mixin flex-wide{
+//   width: 100%;
+//   display: flex;
+//   flex-direction: row;
+//   justify-content: space-between;
+// }
+// @mixin menus {
+//   display:flex;
+//   flex-direction: row;
+//   align-items: center;
+//   list-style: none;
+// }
+// @mixin whiteHover($color: #C9b274){
+//   p{
+//     color: $color;
+//   }
+//   li{
+//     list-style-type: none;
+//   }
+//   a{
+//     color:$fontColor;
+//     text-decoration:none;
+//     &:hover{
+//       color:lighten(white,20%);
+//     }
+//   }
+// }
+// @mixin mQ($arg){
+//   @content
+// };

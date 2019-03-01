@@ -1,0 +1,11 @@
+@import 'abstracts/_mixins.scss';
+@import 'abstracts/_variables.scss';
+
+@import 'base/_typography.scss';
+@import 'components/_buttons.scss';
+
+@import 'layout/_header.scss';
+@import 'layout/_main.scss';
+@import 'layout/_footer.scss';
+
+@import "pages/_home.scss";
