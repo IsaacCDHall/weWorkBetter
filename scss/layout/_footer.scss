@@ -1,0 +1,28 @@
+.footer{
+  padding: 27px 0 20px;
+  background: url('../img/border_slider.png') center 0 no-repeat;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  @include flex-wide;
+  position: relative;
+  justify-content: space-evenly;
+}
+.foot-links{
+  @include whiteHover(white);
+}
+.footer-nav{
+  text-align: center;
+  background: url('../img/border_footer.png') center 0 no-repeat;
+  width: 100%;
+  @include whiteHover;
+  .bottom{
+    display: flex;
+    justify-content: center;
+    li{
+      padding-top: 3px;
+      padding-bottom: 3px;
+      margin: 20px 15px 0 20px;
+    }
+  }
+}
