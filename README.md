@@ -42,7 +42,7 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 #### Paper Sketch
 
-Grid Paper Sketch![Grid Paper Sketch](img/sketch.jpg)
+Grid Paper Sketch![Grid Paper Sketch](img/Sketch.jpg)
 
 #### Wireframes
 
