@@ -1,28 +1,7 @@
-// .content-wrapper{
-//   margin-bottom: 0px;
-//   margin: 0 auto;
-//   max-width: 100%;
-//   width: 960px;
-//   .navigation{
-//     .logo{
-//       @include flex-center;
-//       padding-top: 30px;
-//       margin: 0 0 28px;
-//       min-height: 34px;
-//       img{
-//         max-width: 99%;
-//       }
-//     }
-//     .menu{
-//       @include menus;
-//       @include whiteHover;
-//       justify-content: center;
-//       margin-top: 20px;
-//       padding:20px 0px;
-//       background: url('../img/border_menu.png') no-repeat center;
-//       li{
-//         margin: 0 11px;
-//       }
-//     }
-//   }
-// }
+.header{
+  margin-bottom: 0px;
+  margin: 0 auto;
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
