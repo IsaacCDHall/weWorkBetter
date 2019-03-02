@@ -16,7 +16,7 @@
   .divider{
     position: absolute;
     background-color:white;
-    width: 10%;
+    width: 8%;
     height: 60vh;
 
     z-index: 1;
@@ -30,7 +30,7 @@
     z-index: 1;
     border-radius: 152px;
     @include flex-center;
-      #textBox{max-width: 100px;}
+      #textBox{max-width: 180px;}
 
   }
   .rightBubble{

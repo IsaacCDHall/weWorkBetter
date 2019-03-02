@@ -11,34 +11,29 @@
   // display: block;
 
 }
-// .container{
-//   margin: 0px 240px;
-//
-// }
-// @media screen and (max-width: 1437px) and (min-width: 1025px){
-//   .container{
-//     margin: 0 120px;
-//   }
-// }
-// @media screen and (max-width: 1024px) and (min-width: 426px){
-//   .container{
-//     margin: 0;
-//   }
-// }
-// @media screen and (max-width: 426px) {
-//   // body{background-image: none;}
-//   .container{
-//     margin: 0;
-//   }
-// }
-// @media screen and (min-width: 1900px) {
-//   .container{
-//     // margin: 0 ;
-//     div.content-wrapper{width:1900px;}
-//     div.home-wrapper{width:1900px;}
-//     div.social-media{
-//       max-width:1900px;width:1900px; justify-content: space-between;
-//     }
-//     div.footer-nav{max-width:1900px;width: 1900px;}
-//   }
-// }
+
+@media screen and (max-width: 1437px) and (min-width: 1025px){
+  .container{
+    // margin: 0 120px;
+  }
+}
+@media screen and (max-width: 1024px) and (min-width: 426px){
+   .pillBox{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+}
+@media screen and (max-width: 426px) {
+  // body{background-image: none;}
+  .container{
+    margin: 0;
+  }
+}
+@media screen and (min-width: 1900px) {
+  .container{
+  
+  }
+}
