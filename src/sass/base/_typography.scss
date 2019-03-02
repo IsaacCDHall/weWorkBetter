@@ -7,3 +7,21 @@
     font-style: oblique;
   }
 }
+// amenities page
+div#amenitiesList{
+  // border:solid 1px red;
+  max-width: 80%;
+  p{
+    font-size:150%
+  }
+  li{
+    font-style: oblique;
+    // font-size: 16px;
+  }
+  font-size: 16px;
+  list-style: initial;
+  text-decoration: initial;
+  // @include flex-center;
+  text-align: center;
+
+}
