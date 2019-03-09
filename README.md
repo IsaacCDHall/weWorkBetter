@@ -42,17 +42,17 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 #### Paper Sketch
 
-Grid Paper Sketch![Grid Paper Sketch](img/Sketch.jpg)
+Grid Paper Sketch! [Grid Paper Sketch](img/Sketch.jpg)
 
 #### Wireframes
 
-First Draft![First](img/Screen1.png)
+First Draft! [First](img/Screen1.png)
 
-First Minimal Design![Second](img/Screen2.png)
+First Minimal Design! [Second](img/Screen2.png)
 
-Color Scheme changing![Third](img/Screen3.png)
+Color Scheme changing! [Third](img/Screen3.png)
 
-Fleshed out! Incorporates Pill design![Final](img/Screen4.png)
+Fleshed out! Incorporates Pill design! [Final](img/Screen4.png)
 
 ### User Stories
 
