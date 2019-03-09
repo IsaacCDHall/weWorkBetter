@@ -91,7 +91,6 @@ Is there work you plan on continuing doing on this project? Features you'd like 
 * Here
 
 ### License
+This project is licensed under the MIT license, Copyright (c) 2019 [Isaac Hall](/LICENSE.md)
 
-MIT.
-
-Copyright (c) 2019 **_{ Isaac Hall }_**
+For more information see LICENSE.md.
