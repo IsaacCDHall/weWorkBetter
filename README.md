@@ -32,13 +32,9 @@
 
 * MVP:
   * Landing page
-  * Contact page
-  * Amenities
-  * Subscription/Membership Costs/How to Join
+  * Working and cohesive design
+  * Subscription/Membership Costs/How to Join List
 
-### Images
-
-Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
 
 #### Paper Sketch
 
@@ -78,20 +74,21 @@ Fleshed out! Incorporates Pill design ![Final](src/assets/images/Screen4.png)
 #
 ### Responsiveness
 
-The goal is to create a pillbug rolling effect of the content as the page is minimized.
+The goal is to effecitvely create a pillbug rolling using the content of the page as viewport width changes
 
 ### Setup Instructions
 
-Describe how someone can clone and launch this project.
+1. git clone or download project as .zip to /yourfavoritefolder
+2. npm install
+3. npm run start
+
 
 ### Roadmap
 
 Is there work you plan on continuing doing on this project? Features you'd like to add?
 
-* Consider
-* Listing
-* Them
-* Here
+* Responsiveness tweaking to create more fluid motion of pill as page shrinks
+* Add follow-up pages with new designs
 
 ### License
 This project is licensed under the MIT license, Copyright (c) 2019 [Isaac Hall](/LICENSE.md)
