@@ -58,10 +58,9 @@ Fleshed out! Incorporates Pill design ![Final](src/assets/images/Screen4.png)
 
 * Billy, the retired guy looking to spice up his life - I intend to use a site to help bring excitement back into my dull life. Since my cat, Gretchen, passed away 4 years ago, i've been in a constant state of anxiety. I hate it when websites make me think of my last cat, but love it when the design is sleek enough for me to be distracted effortlessly.
 
-* Bobby, the friend of a friend- My goal is to find a company that can help develop a website for my business which specializes in cat fur. I will use this site to make sure that my cat fur is conflict free and organic. My primary pain point is websites that I can not relate to.
+* Bobby, the friend of a friend- My goal is to find a company that can help develop a website for my business which specializes in cat fur. I will use this site to make sure that my cat fur is conflict free and organic. My primary pain point is websites that I can not relate to and poor execution of ideas.
 
-* Belly, the investor - My goal is to invest in a unique and cutting edge company that will generate a passive income for myself so I can spend more time in France! I only invest in the finest of ideas such as HotDogCozies&trade;. I will use this site to learn more about a place I can go to express myself and my grandiose ideas. My primary pain point is websites that aren't the creme de la cream(Did I mention I went to franc Benny, potential employee - My goal is to work at a company. I will use this site or any other site as long as i'm getting paid. My primary pain point is when it takes extra long for my welfare checks to clear.
-
+* Belly, the investor - My goal is to invest in a unique and cutting edge company that will generate a passive income for myself so I can spend more time in France! I only invest in the finest of ideas such as HotDogCozies&trade;. I will use this site to learn more about a place I can go to express myself and my grandiose ideas. My primary pain point is websites that aren't the creme de la cream(Did I mention I went to france). I like to see innovative new ideas!
 
 ### User Stories
 
